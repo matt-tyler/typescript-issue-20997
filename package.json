@@ -1,0 +1,18 @@
+{
+    "name": "error-repoduction",
+    "version": "0.0.1",
+    "description": "Error repoduction for ...",
+    "scripts": {
+      "build": "tsc"
+    },
+    "author": "Matt Tyler",
+    "license": "MIT",
+    "devDependencies": {
+      "@types/node": "^8.0.17",
+      "aws-sdk": "^2.125.0",
+      "typescript": "^2.6.2",
+      "util": "^0.10.3"
+    },
+    "dependencies": {}
+  }
+  
